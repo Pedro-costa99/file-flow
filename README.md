@@ -1,6 +1,6 @@
 # FileFlow
 
-Conversor de arquivos inspirado em SaaS como Convertio. A aplicação entrega uma experiência front-end completa — landing page, fluxo de conversão, catálogo de planos e dashboard — e simula camadas de autenticação e fila de processamento enquanto o backend real é implementado.
+Conversor de arquivos. A aplicação entrega uma experiência front-end completa — landing page, fluxo de conversão, catálogo de planos e dashboard — e simula camadas de autenticação e fila de processamento enquanto o backend real é implementado.
 
 ## ⚙️ Stack principal
 
@@ -85,11 +85,4 @@ src/
 9. **Internationalization:** preparar para alternar entre pt-BR e en-US.
 10. **CI/CD:** configurar pipeline (GitHub Actions) para lint/test/build antes do deploy.
 
-## 🤝 Contribuindo
 
-- Abra issues para bugs, sugestões ou melhorias.
-- Use PRs contendo descrição clara, testes (quando aplicável) e seção de “Screenshots” para mudanças visuais.
-
-## 📄 Licença
-
-Projeto educacional; escolha a licença que preferir antes de torná-lo público. Se optar por MIT, crie um arquivo `LICENSE` apropriado.
